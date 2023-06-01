@@ -1,4 +1,4 @@
-### Hi there 👋
+하루에 하나라도 배워가는 개발자
 
 <!--
 **cocoballmohae/cocoballmohae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
