@@ -1,6 +1,6 @@
 하루에 하나라도 배워가는 개발자
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>✨Stacks</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
